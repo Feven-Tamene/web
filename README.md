@@ -1,7 +1,6 @@
 
-  # Event Management System (Copy)
-
-  This is a code bundle for Event Management System (Copy). The original project is available at https://www.figma.com/design/LYQBRvO7j7DZUnulWxE5iF/Event-Management-System--Copy-.
+  # Event Management System 
+  
 
   ## Running the code
 
